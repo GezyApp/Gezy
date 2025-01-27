@@ -1,0 +1,134 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-03-20",
+  "country": {
+    "name": "Albania",
+    "code": "ALB",
+    "continent": "Europe",
+    "description": "Albania, a hidden gem in the Balkans, offers a fascinating blend of ancient history, stunning landscapes, and vibrant culture. From its pristine Adriatic and Ionian coastlines to the rugged Albanian Alps, the country boasts diverse natural beauty. With a history spanning Illyrian, Roman, Ottoman, and Communist periods, Albania preserves a unique cultural heritage while embracing modernity. Known for its traditional hospitality ('Besa'), distinctive cuisine, and numerous UNESCO World Heritage sites, Albania remains one of Europe's most authentic and unexplored destinations.",
+    "capital": "Tirana",
+    "language": "Albanian"
+  },
+  "cities": [
+    {
+      "id": "tirana",
+      "name": "Tirana",
+      "description": "Tirana, Albania's dynamic capital, seamlessly blends Communist-era architecture with vibrant modern developments. Founded in 1614, the city became Albania's capital in 1920 and has since evolved into a colorful metropolis. Skanderbeg Square, the city's heart, is surrounded by the National History Museum, the Et'hem Bey Mosque, and the iconic Clock Tower. The Blloku district, once reserved for Communist elite, now pulses with trendy cafes and boutiques.",
+      "highlights": [
+        "Skanderbeg Square",
+        "National History Museum",
+        "Et'hem Bey Mosque",
+        "Blloku District",
+        "Grand Park"
+      ]
+    },
+    {
+      "id": "durres",
+      "name": "Durres",
+      "description": "Durres, Albania's main seaport, boasts over 3,000 years of history. Founded in 627 BCE by Greek colonists, it's one of Europe's oldest cities. The city features the largest Roman amphitheater in the Balkans and a stunning Venetian Tower. Its beautiful Adriatic coastline, known as the Durres Riviera, stretches for 10 kilometers with sandy beaches and resort facilities.",
+      "highlights": [
+        "Roman Amphitheater",
+        "Durres Archaeological Museum",
+        "Venetian Tower",
+        "Durres Beach",
+        "King Zog's Villa"
+      ]
+    },
+    {
+      "id": "saranda",
+      "name": "Saranda",
+      "description": "Saranda, the gateway to the Albanian Riviera, sits opposite the Greek island of Corfu. This coastal gem offers a perfect blend of history and Mediterranean charm. The nearby UNESCO World Heritage site of Butrint showcases ancient Greek and Roman ruins. The city's horseshoe-shaped bay, lined with palm trees and promenades, provides spectacular sunset views over the Ionian Sea.",
+      "highlights": [
+        "Butrint National Park",
+        "Lëkurësi Castle",
+        "Mirror Beach",
+        "Blue Eye Spring",
+        "Synagogue Complex"
+      ]
+    },
+    {
+      "id": "berat",
+      "name": "Berat",
+      "description": "Berat, known as the 'City of a Thousand Windows', is a UNESCO World Heritage site renowned for its unique Ottoman architecture. The city's white houses climb up the hillside towards Berat Castle, creating a distinctive tiered appearance. The castle neighborhood of Mangalem and Gorica, split by the Osum River, showcase perfectly preserved Ottoman houses with their characteristic windows.",
+      "highlights": [
+        "Berat Castle",
+        "Mangalem Quarter",
+        "Onufri Museum",
+        "Red Mosque",
+        "Gorica Bridge"
+      ]
+    },
+    {
+      "id": "shkodra",
+      "name": "Shkodra",
+      "description": "Shkodra, one of Albania's oldest and most historic cities, sits at the foot of the Albanian Alps. The city is dominated by Rozafa Castle, which offers panoramic views of Lake Shkodra and the surrounding mountains. Known as Albania's cultural capital, Shkodra has a rich tradition in photography, carnival celebrations, and bicycle culture.",
+      "highlights": [
+        "Rozafa Castle",
+        "Marubi National Museum of Photography",
+        "Lake Shkodra",
+        "Mes Bridge",
+        "Cathedral of St. Stephen"
+      ]
+    },
+    {
+      "id": "vlore",
+      "name": "Vlore",
+      "description": "Vlore, where the Adriatic meets the Ionian Sea, holds significant historical importance as the site of Albania's independence declaration in 1912. The city combines historical sites with modern beach resorts. The nearby Llogara National Park offers dramatic mountain scenery and the famous Llogara Pass, while the city's waterfront promenade bustles with restaurants and cafes.",
+      "highlights": [
+        "Independence Museum",
+        "Muradie Mosque",
+        "Kanina Castle",
+        "Cold Water Beach",
+        "Llogara National Park"
+      ]
+    },
+    {
+      "id": "gjirokaster",
+      "name": "Gjirokaster",
+      "description": "Gjirokaster, the 'City of Stone', is a UNESCO World Heritage site famous for its distinctive Ottoman-era architecture. The city's grey slate roofs cascade down the hillside beneath its imposing castle. Birthplace of writer Ismail Kadare and former dictator Enver Hoxha, Gjirokaster preserves its cultural heritage through its traditional houses, bazaar, and folklore festival.",
+      "highlights": [
+        "Gjirokaster Castle",
+        "Old Bazaar",
+        "Skenduli House",
+        "Zekate House",
+        "Cold War Tunnel"
+      ]
+    },
+    {
+      "id": "korca",
+      "name": "Korca",
+      "description": "Korca, known as Albania's 'Little Paris', is renowned for its cultural heritage and educational tradition. The city features distinct architecture influenced by French and Ottoman styles. Famous for its carnival, beer festival, and serenades, Korca maintains a unique cultural identity. The city's Orthodox cathedral and old bazaar are architectural masterpieces.",
+      "highlights": [
+        "Orthodox Cathedral",
+        "Old Bazaar",
+        "National Museum of Medieval Art",
+        "First Albanian School",
+        "Korca Brewery"
+      ]
+    },
+    {
+      "id": "kruje",
+      "name": "Kruje",
+      "description": "Kruje, the medieval capital of Albania, is synonymous with the resistance of Skanderbeg against the Ottoman Empire. Perched dramatically on a mountainside, the city's castle housed Skanderbeg's headquarters. The old bazaar, one of the oldest in Albania, maintains its traditional character with wooden shops selling authentic Albanian crafts.",
+      "highlights": [
+        "Kruje Castle",
+        "Skanderbeg Museum",
+        "Old Bazaar",
+        "Ethnographic Museum",
+        "Dollma Teqe"
+      ]
+    },
+    {
+      "id": "pogradec",
+      "name": "Pogradec",
+      "description": "Pogradec, nestled on the shores of Lake Ohrid, is a picturesque city known for its tranquil atmosphere and natural beauty. The UNESCO-protected Lake Ohrid, one of Europe's oldest and deepest lakes, provides a stunning backdrop. The city is famous for its fish specialties, particularly the koran fish, and its literary traditions associated with Lasgush Poradeci.",
+      "highlights": [
+        "Lake Ohrid Promenade",
+        "Drilon National Park",
+        "Castle of Pogradec",
+        "Tushemisht Village",
+        "Lin Peninsula"
+      ]
+    }
+  ]
+} 
